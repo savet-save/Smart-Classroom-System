@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">client</string>
+    <string-array name="spinnerArr">
+        <item>教室101</item>
+        <item>教室102</item>
+        <item>教室103</item>
+        <item>教室104</item>
+        <item>教室105</item>
+        <item>教室106</item>
+        <item>教室107</item>
+        <item>教室108</item>
+        <item>教室201</item>
+        <item>教室202</item>
+        <item>教室203</item>
+        <item>教室204</item>
+        <item>教室205</item>
+        <item>教室206</item>
+        <item>教室207</item>
+        <item>教室208</item>
+        <item>教室301</item>
+        <item>教室302</item>
+        <item>教室303</item>
+        <item>教室304</item>
+        <item>教室305</item>
+        <item>教室306</item>
+        <item>教室307</item>
+        <item>教室308</item>
+    </string-array>
+    <string name="test">test</string>
+    <string name="reservation">已有预定</string>
+    <string name="hasPeople">已经有人</string>
+    <string name="noPeople">没有人</string>
+    <string name="selfRev">我预定</string>
+    <string name="statistical1">统计1 - </string>
+    <string name="statistical2">统计2 - </string>
+    <string name="setting_button">设置</string>
+    <string name="setting_time_s">设定预定时间(秒)</string>
+    <string name="setting_time_m">设定预定时间(分)</string>
+    <string name="setting_time_h">设定预定时间(时)</string>
+    <string name="ok">OK</string>
+</resources>
