@@ -1,20 +1,4 @@
 # service
-Compile environment : Linux/gcc
-
-Compiling method : make in service directory
-
-Start method : ./class_service
-
-Exit method: Ctrl + C
-
-# client
-Compile environment : windows/ Keil uVision5
-
-Using hardware : STC89C51 + ESP8266 + LM393
-
----
-
-# service
 编译环境 : Linux/gcc
 
 编译方法 : 在service目录中执行命令 make 
@@ -29,3 +13,29 @@ Using hardware : STC89C51 + ESP8266 + LM393
 
 使用硬件 : STC89C51 + ESP8266 + LM393
 
+# android
+编译环境 : android studio4
+
+用途 : 终端用户
+
+--
+
+# service
+Compile environment : Linux/gcc
+
+Compiling method : make in service directory
+
+Start method : ./class_service
+
+Exit method: Ctrl + C
+
+# client
+Compile environment : windows/ Keil uVision5
+
+Using hardware : STC89C51 + ESP8266 + LM393
+
+
+# android
+Compile environment : android studio4
+
+Used for : end-user
